@@ -16,7 +16,6 @@
 title: Andre D. Gutnik 
 email: andregutnik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brazilian Data Scientist based in Tel Aviv, Israel.
 linkedin_username: andregutnik
 github_username: andregutnik
 # minimal_mistakes_skin: default
@@ -58,12 +57,12 @@ plugins:
 
 author:
   name   : "Andre D. Gutnik"
-  avatar : "/assets/images/AndreGutnik.jpeg"
-  bio    : "Data Scientist. Homebrewer. Brazilian by fate, Israeli by choice. Interests: Smart Cities, Urban Mobility, City Logistics."
+  avatar : "/assets/images/AndreGutnik.jpg"
+  bio    : "Brazilian Data Scientist based in Tel Aviv, Israel."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://lnros.github.io/"
+      url: "https://andregutnik.github.io/"
     - label: "E-mail"
       icon: "fas fa-envelope"
       url: "mailto:andregutnik@gmail.com"
@@ -81,10 +80,10 @@ footer:
   links:
     - label: "E-mail"
       icon: "fas fa-envelope"
-      url: "mailto:nudel.rosenberg@gmail.com"
+      url: "mailto:andregutnik@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/leonardorosenberg/"
+      url: "https://www.linkedin.com/in/andre-gutnik/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lnros"
