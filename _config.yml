@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Leonardo N. Rosenberg 
-email: nudel.rosenberg@gmail.com
+title: Andre D. Gutnik 
+email: andregutnik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data Scientist. Smart City. City Logistics. Urban Mobility.
-linkedin_username: leonardorosenberg
-github_username: lnros
+  Brazilian Data Scientist based in Tel Aviv, Israel.
+linkedin_username: andregutnik
+github_username: andregutnik
 # minimal_mistakes_skin: default
 minimal_mistakes_skin: dirt
 search: true
@@ -57,8 +57,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Leonardo N. Rosenberg"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Andre D. Gutnik"
+  avatar : "/assets/images/AndreGutnik.jpeg"
   bio    : "Data Scientist. Homebrewer. Brazilian by fate, Israeli by choice. Interests: Smart Cities, Urban Mobility, City Logistics."
   links:
     - label: "Website"
@@ -66,13 +66,13 @@ author:
       url: "https://lnros.github.io/"
     - label: "E-mail"
       icon: "fas fa-envelope"
-      url: "mailto:nudel.rosenberg@gmail.com"
+      url: "mailto:andregutnik@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/leonardorosenberg/"
+      url: "www.linkedin.com/in/andre-gutnik"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lnros"
+      url: "https://github.com/andregutnik"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
